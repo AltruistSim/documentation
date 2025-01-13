@@ -7,3 +7,5 @@
 * The repository 'executable' contains an executable file for running the simulation program, and several example parameter files
 
 * The repository 'source_code' contains the complete source code that allows recompilation of the program
+
+* The repository 'source_code/releases' contains the current and previous releases, including source code, documentation, and executable program
